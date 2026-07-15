@@ -15,6 +15,7 @@ body{
 .card-img img{
     border-radius: 10px;
     width: 300px;
+    display: box;
 }
 .card-content h3{
     color:#171717;
